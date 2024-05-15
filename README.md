@@ -1,5 +1,3 @@
-# DevSecOps With Docker Scout Hotstar Clone
-
 # DevSecOps with Docker Scout: Hotstar Clone
 
 Welcome to the DevSecOps project that utilizes Docker Scout to create a clone of Hotstar, a popular video streaming platform. This project is designed to demonstrate the integration of security practices within the DevOps lifecycle, using Docker for containerization and Docker Scout for security scanning.
